@@ -9,6 +9,10 @@ At the time of this happening, I was extremely frustrated, and I quit the game e
 
 Here is the last picture of the item:
 
-![Screenshot_20201112-152210_Fashion Story.jpg](Screenshot_20201112-152210_Fashion Story.jpg)
+<!-- LinkV1 !-->
+<!--![Screenshot_20201112-152210_Fashion Story.jpg](Screenshot_20201112-152210_Fashion Story.jpg)!-->
+<!-- LinkV2!-->
+
+![SignificantLoss_November12th2020.jpg](SignificantLoss_November12th2020.jpg)
 
 ***
